@@ -1,52 +1,50 @@
-# 👑 Bem-vindo ao Meu Perfil Oficial! ✨ ⭐
+# 👑 Olá, seja muito bem-vindo ao meu espaço de desenvolvimento! Me chamo Joaquim. ✨
 
-<div align="center">
-  <img src="https://media.tenor.com/fJugnJ6dHHIAAAAi/the-battle-bricks-makeship.gif" width="160"/>
-  
-  ### 🌟 "Transformando linhas de código em grandes conquistas!" 🏆 🌟
-</div>
+<p align="center">
 
 ---
 
-## 🏛️ Sobre Mim (Joaquim) 💼 ✨
-*Saudações! É uma honra recebê-lo em meu portfólio de desenvolvimento tecnológico.* - 👋 **Apresentação:** Olá! Chamo-me **Joaquim**, sou estudante da Rede Estadual de Ensino do Paraná. 🇧🇷 🏫
-- 👀 **Objetivos:** Dedico-me ao aprendizado profundo de novas linguagens de programação, buscando constantemente expandir horizontes e aprimorar meu conhecimento técnico nesta área em constante evolução. 🚀 💡
-- 🌱 **Formação e Desenvolvimento:** Atualmente estou cursando e evoluindo nas seguintes linguagens fundamentais de desenvolvimento web: 💫 👇
+## 🌟 Sobre a Minha Jornada Acadêmica e Profissional 🚀
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+Atualmente, sou discente na **Rede Estadual de Ensino do Paraná** 🏫, onde busco constantemente a excelência no aprendizado tecnológico. Meu principal objetivo é lapidar minhas habilidades e expandir horizontes na programação, transformando linhas de código em grandes conquistas. 🏆
+
+* 🎯 **Foco de Carreira:** Almejo a criação e o **desenvolvimento de jogos virtuais** 🎮, unindo criatividade e lógica para dar vida a novos universos digitais.
+* 🔍 **Interesses:** Busco incessantemente dominar novas linguagens e metodologias de ponta no cenário de desenvolvimento de software. ⭐
 
 ---
 
-## 🚀 Tecnologias em Estudo Acadêmico 📚 ⚡
-*No ambiente escolar, estamos explorando dinâmicas fundamentais de lógica, interatividade e controle de versão através das seguintes ferramentas:*
+## 🛠️ Tecnologias e Ferramentas em Lapidação ✨
 
-- 🧩 **Scratch:** ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) — *Idealização e desenvolvimento de lógica computacional.*
-- 💛 **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) — *Programação dinâmica, interatividade e animações (Edição Dourada).*
-- 🖤 **GitHub:** ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700) — *Hospedagem de código-fonte e controle de versão profissional.*
+Abaixo, apresento as ferramentas com as quais tenho contato e estudo diariamente, buscando o mais alto padrão de desempenho:
 
----
+### 📚 Conhecimentos em Desenvolvimento Base:
+![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-DAA520?style=for-the-badge&logo=css3&logoColor=black)
 
-## 📬 Contato e Comunicação Oficial 🏛️ ✨
-*Caso necessite esclarecer qualquer dúvida, iniciar um diálogo profissional ou propor colaborações acadêmicas, sinta-se à vontade para enviar uma mensagem através do canal abaixo:*
-
-<div align="center">
-  <a href="mailto:joaquim.ribeiro.oliveira@escola.pr.gov.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Entre%20em%20Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+### 🏫 Estudos e Projetos Acadêmicos Atuais:
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFD700)
 
 ---
 
-## 🎨 Galeria Pessoal e Coleção 🌟 🎮
-<div align="center">
-  <img src="https://media.tenor.com/1GRq5kloKP0AAAAi/ddlc-sayori.gif" width="140" style="margin-right: 15px;"/>
-  <img src="https://media1.tenor.com/m/uqWJoRria88AAAAC/natsuki-cupcake.gif" width="140"/>
-</div>
+## 📩 Entre em Contato para Conexões e Parcerias 🤝
+
+Caso deseje iniciar um diálogo formal, propor colaborações ou sanar quaisquer dúvidas, coloco-me à inteira disposição através do canal abaixo:
+
+<a href="mailto:joaquim.ribeiro.oliveira@escola.pr.gov.br" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-🥇-DAA520?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
 
 ---
-<div align="center">
-  <sub>Construído com dedicação, brilho e muito foco. 👑 ✨</sub>
-</div>
+
+## 🎨 Universo de Inspirações e Mídias 👾
+
+<p align="center">
+  <img src="https://media.tenor.com/1GRq5kloKP0AAAAi/ddlc-sayori.gif" width="28%" />
+  <img src="https://media1.tenor.com/m/uqWJoRria88AAAAC/natsuki-cupcake.gif" width="28%" />
+  <img src="https://media.tenor.com/fJugnJ6dHHIAAAAi/the-battle-bricks-makeship.gif" width="28%" />
+</p>
+
+---
+<p align="center">🌟 <i>"O brilho do sucesso pertence àqueles que nunca param de aprender."</i> 🌟</p>
